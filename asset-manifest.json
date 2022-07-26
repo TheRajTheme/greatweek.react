@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/greatweek.react/static/css/main.c4a8ad15.chunk.css",
+    "main.js": "/greatweek.react/static/js/main.4e7f3ed1.chunk.js",
+    "main.js.map": "/greatweek.react/static/js/main.4e7f3ed1.chunk.js.map",
+    "runtime-main.js": "/greatweek.react/static/js/runtime-main.ac50d349.js",
+    "runtime-main.js.map": "/greatweek.react/static/js/runtime-main.ac50d349.js.map",
+    "static/css/2.9b7094a5.chunk.css": "/greatweek.react/static/css/2.9b7094a5.chunk.css",
+    "static/js/2.f8e423a4.chunk.js": "/greatweek.react/static/js/2.f8e423a4.chunk.js",
+    "static/js/2.f8e423a4.chunk.js.map": "/greatweek.react/static/js/2.f8e423a4.chunk.js.map",
+    "index.html": "/greatweek.react/index.html",
+    "static/css/2.9b7094a5.chunk.css.map": "/greatweek.react/static/css/2.9b7094a5.chunk.css.map",
+    "static/css/main.c4a8ad15.chunk.css.map": "/greatweek.react/static/css/main.c4a8ad15.chunk.css.map",
+    "static/js/2.f8e423a4.chunk.js.LICENSE.txt": "/greatweek.react/static/js/2.f8e423a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac50d349.js",
+    "static/css/2.9b7094a5.chunk.css",
+    "static/js/2.f8e423a4.chunk.js",
+    "static/css/main.c4a8ad15.chunk.css",
+    "static/js/main.4e7f3ed1.chunk.js"
+  ]
+}
